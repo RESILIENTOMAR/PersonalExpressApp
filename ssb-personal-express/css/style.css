@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    background: linear-gradient(90deg, #fdd835, #e65100);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 720px;
+}
+
+span {
+    margin-left: 222px;
+    font-size: 2.5rem;
+    text-decoration: dotted;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    font-family: 'Silkscreen';
+}
+
+h1 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'New Rocker';
+    text-shadow: 1px 1px 1px white;
+}
+
+
+h2 {
+    font-size: 2rem;
+    /* margin-top: 150px; */
+    margin-left: 100px;
+    text-decoration: underline;
+    text-decoration-color: red;
+    font-family: 'Eagle Lake';
+}
+
+img {
+    height: 450px;
+    width: 450px;
+    border: 20px groove rgb(125, 166, 148);
+    border-radius: 10px;
+    margin-right: 215px;
+    float: right;
+}
+
+input {
+    border-radius: 20px;
+    width: 250px;
+    text-align: center;
+    height: 50px;
+    font-size: 1.2rem;
+    border: 10px groove rgb(125, 166, 148);
+    margin-bottom: 18px;
+}
+
+button {
+    border-radius: 20px;
+    border: 10px groove rgb(125, 166, 148);
+    height: 50px;
+}
+
+section {
+    margin-left: 100px;
+}
+
+label{
+    font-size: 1.6rem;
+    font-family: 'Eagle Lake';
+}
+#outfit2-radio, #outfit3-radio{
+    margin-right: 38px;
+    width: 71px;
+}
+
+form>input{
+    margin-left:15px;
+}
+
+form{
+    margin-left: 779px;
+}
