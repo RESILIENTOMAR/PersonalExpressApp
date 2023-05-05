@@ -7,7 +7,7 @@ body {
     background: linear-gradient(90deg, #fdd835, #e65100);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 720px;
+    height: 800px;
 }
 
 span {
@@ -65,19 +65,21 @@ section {
     margin-left: 100px;
 }
 
-label{
+label {
     font-size: 1.6rem;
     font-family: 'Eagle Lake';
 }
-#outfit2-radio, #outfit3-radio{
+
+#outfit2-radio,
+#outfit3-radio {
     margin-right: 38px;
     width: 71px;
 }
 
-form>input{
-    margin-left:15px;
+form>input {
+    margin-left: 15px;
 }
 
-form{
+form {
     margin-left: 779px;
 }
